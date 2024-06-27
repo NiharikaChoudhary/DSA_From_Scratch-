@@ -1,5 +1,7 @@
 // HackerRank
 
+//  https://www.geeksforgeeks.org/problems/count-digits5716/1
+
 // Given a number N. Count the number of digits in N which evenly divide N.
 
 // Note :- Evenly divides means whether N is divisible by a digit i.e. leaves a remainder 0 when divided.
